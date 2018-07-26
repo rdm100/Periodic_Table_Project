@@ -21,6 +21,9 @@ http://worldpopulationhistory.org/map/1838/mercator/1/0/24/
 
 Periodic Table of Elements
 
+
+<img src="images/PeriodicTable.png">
+
 ## Getting Started
 
 Once cloned or downloaded, use npm install command in the terminal.
@@ -33,16 +36,6 @@ In the terminal run npm test
 ## Built With
 
 JavaScript, React, MongoDB, Express and Mocha
-
-
-
-
-## Authors
-
-*  [Sarah Bartlett](https://github.com/PrincessSarahB)
-*  [Andrew Lowrie](https://github.com/AndrewLowrie)
-*  [Stuart O'Donnell](https://github.com/StuartODonnell)
-*  [Roberto De Marco](https://github.com/rdm100)
 
 
 ## Acknowledgments
