@@ -1,3 +1,7 @@
+## Getting Started
+
+Once cloned or downloaded, use npm install command in the terminal at root level and npm install at client level. Have mongod running and then use npm start at root level in one terminal and npm start at client level in another terminal. You should then be able to view the application in the browser at http://localhost:3000/
+
 ## Brief
 
 Educational App
@@ -6,6 +10,7 @@ The BBC are looking to improve their online offering of educational content by d
 Your task is to make an MVP to put forward to them - this may only be for a small set of information, and may only showcase some of the features to be included in the final app. You might use an API to bring in content or a database to store facts. The topic of the app is your choice, but here are some suggestions you could look into:
 
 Interactive timeline, e.g. of the history of computer programming
+
 Interactive map of a historical event - e.g. World War 1, the travels of Christopher Columbus
 MVP
 Display some information about a particular topic in an interesting way
@@ -23,10 +28,6 @@ Periodic Table of Elements
 
 
 <img src="images/PeriodicTable.png">
-
-## Getting Started
-
-Once cloned or downloaded, use npm install command in the terminal at root level and npm install at client level. Have mongod running and then use npm start at root level in one terminal and npm start at client level in another terminal. You should then be able to view the application in the browser at http://localhost:3000/
 
 ## Running the tests
 
