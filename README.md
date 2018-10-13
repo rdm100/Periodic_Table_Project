@@ -26,7 +26,7 @@ Periodic Table of Elements
 
 ## Getting Started
 
-Once cloned or downloaded, use npm install command in the terminal.
+Once cloned or downloaded, use npm install command in the terminal at root level and npm install at client level. Have mongod running and then use npm start at root level in one terminal and npm start at client level in another terminal. You should then be able to view the application in the browser at http://localhost:3000/
 
 ## Running the tests
 
